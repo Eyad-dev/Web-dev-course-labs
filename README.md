@@ -1,1 +1,1 @@
-# Web-dev-course-labs
+# LAB 2 HTML SUBMISSION
